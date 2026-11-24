@@ -1,3 +1,9 @@
+# 👋 Hi, I'm Aniket Bhokare
+
+### 💻 Aspiring AI Engineer | Software Developer | Tech Enthusiast
+
+---
+
 ## 🚧 Currently Working On
 
 - ♻️ **Smart Waste Classification System** – Building an image classification system using CNN and Transfer Learning (MobileNetV2) to classify waste into Plastic, Paper, Metal, Glass, and Organic categories.
