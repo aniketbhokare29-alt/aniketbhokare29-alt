@@ -6,10 +6,15 @@
 
 ## 🚧 Currently Working On
 
-- ♻️ **Smart Waste Classification System** – Building an image classification system using CNN and Transfer Learning (MobileNetV2) to classify waste into Plastic, Paper, Metal, Glass, and Organic categories.
-- 🤖 **AI-Powered Product Review Analysis** – Developing a sentiment analysis system to analyze customer reviews and identify positive, negative, and neutral opinions.
-- 🧠 **Exploring AI & Deep Learning** – Learning and implementing CNNs, Transformers, PyTorch, TensorFlow, and AI-based applications.
+## 🚧 Currently Working On
 
+- ♻️ **Smart Waste Classification System** – Building an image classification system using CNN and Transfer Learning (MobileNetV2) to classify waste into Plastic, Paper, Metal, Glass, and Organic categories.
+
+- 🤖 **AI-Powered Product Review Analysis** – Developing a sentiment analysis system to analyze customer reviews and identify positive, negative, and neutral opinions.
+
+- 🧠 **Transformer-Based Application** – Building an AI application using Transformer Architecture, implementing Self-Attention, Multi-Head Attention, Positional Encoding, and Encoder-Decoder concepts.
+
+- 📚 **Exploring AI & Deep Learning** – Learning and implementing CNNs, Transformers, PyTorch, TensorFlow, and advanced AI-based applications.
 ---
 
 ## ⚡ Tech Stack
