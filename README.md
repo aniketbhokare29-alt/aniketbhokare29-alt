@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Aniket Bhokare
 
-### 💻 Aspiring AI Engineer | Software Developer | Tech Enthusiast
+###  💻 Software Developer | Aspiring AI Engineer | Tech Enthusiast
 
 ---
 
